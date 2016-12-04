@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sys, argparse, requests, json
 
 def main(argv):
